@@ -20,4 +20,43 @@ body{
     #nav-select {
       visibility: visible;
     }
-  }
+}
+
+  .navigation .navbar-brand{
+	color: white; 
+	margin-left: 50px; 
+	padding: inherit; 
+	font-weight: bold; 
+	background-color:darkcyan;
+	font-family: Georgia, Times, "Times New Roman", serif;
+}
+
+h1 {
+    font-size: 70px;
+    color:darkcyan;
+}
+  
+h2 {
+    font-size: 60px;
+    color:darkcyan;
+}
+
+h3 {
+    font-size: 30px;
+    color:darkcyan;
+}
+
+h4 {
+    font-size: 20px;
+    color:darkcyan;
+}
+
+h5 {
+    font-size: 15px;
+    color:darkcyan;
+}
+p {
+    padding:5px;
+    font-size:17px;
+    color:darkolivegreen;
+}
